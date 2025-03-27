@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Pronouns: He/Him/They
+Undergraduate CS Student @ westminster.ac.uk
