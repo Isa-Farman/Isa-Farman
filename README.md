@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Isa!
+<div align="center" style="background-color:#000000; padding:20px; border-radius:10px;">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=💡+Aspiring.+Software.+Developer.&width=800&height=200" />
+</div>
 👩🏻‍💻 Software Engineer sharing my tech journey<br/>
 👩🏻‍🎓 Computer Science student at the University of Westminster<br/>
 💭 Exploring full-stack development — from frontend to backend<br/>
@@ -15,6 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isa-Farman&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Isa-Farman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
